@@ -1,28 +1,40 @@
-### Hi there 👋
+<h1 align="center">Hi 👋, I'm Syed Imran Ertaza</h1>
+<h3 align="center">A passionate web application developer</h3>
 
-I'm Syed Imran Ertaza. A Self-Taught Polyglot Programmer, Learner.
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=imranertaza&label=Profile%20views&color=0e75b6&style=flat" alt="imranertaza" /> </p>
 
-<!--
-**imranertaza/imranertaza** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=imranertaza" alt="imranertaza" /></a> </p>
 
-Here are some ideas to get you started:
+- 🔭 I’m currently working on **Codeigniter eCommerce Project**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🌱 I’m currently learning **Laravel**
 
+- 👯 I’m looking to collaborate on [DNationSoft](http://dnationsoft.com/)
 
-# How to reach me
-<a href="mailto:imranertaza12@gmail.com"><img src="https://img.icons8.com/fluency/48/000000/send-mass-email.png"/></a>
-<a href="https://dnationsoft.com/"><img src="https://img.icons8.com/fluency/48/000000/domain.png"/></a>
-<a href="https://stackoverflow.com/users/8489798/syed-imran-ertaza"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Stack_Overflow_icon.svg/512px-Stack_Overflow_icon.svg.png?20190716190036" width="60"/></a>
-<a href="https://www.youtube.com/@codefixx"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/YouTube_full-color_icon_%282017%29.svg/159px-YouTube_full-color_icon_%282017%29.svg.png?20211015074811" width="60"/></a>
-<a href="https://api.whatsapp.com/send?phone=8801924329315"><img src="https://logodownload.org/wp-content/uploads/2015/04/whatsapp-logo-png-0.png" width="60"/></a>
-<a href="https://www.linkedin.com/in/syed-imran-ertaza-6852685"><img src="https://img.icons8.com/fluency/48/000000/linkedin.png"/></a>
+- 👨‍💻 All of my projects are available at [https://dnationsoft.com/portfolio](https://dnationsoft.com/portfolio)
+
+- 📝 I regularly write articles on [https://blog.dnationsoft.com/](https://blog.dnationsoft.com/)
+
+- 💬 Ask me about **php, mysql and codeigniter**
+
+- 📫 How to reach me **imranertaza12@gmail.com**
+
+- ⚡ Fun fact **I think I am funny**
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/syed-imran-ertaza-68526857" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="syed-imran-ertaza-68526857" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/8489798/syed-imran-ertaza" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="users/8489798/syed-imran-ertaza" height="30" width="40" /></a>
+<a href="https://fb.com/syedimranertaza" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="syedimranertaza" height="30" width="40" /></a>
+<a href="https://www.youtube.com/@codefixx" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="codefixx" height="30" width="40" /></a>
+</p>
+
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://codeigniter.com" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/codeigniter.svg" alt="codeigniter" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> </p>
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=imranertaza&show_icons=true&locale=en&layout=compact" alt="imranertaza" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=imranertaza&show_icons=true&locale=en" alt="imranertaza" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=imranertaza&" alt="imranertaza" /></p>
 
