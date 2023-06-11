@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+I'm Syed Imran Ertaza. A Self-Taught Polyglot Programmer, Learner.
+
 <!--
 **imranertaza/imranertaza** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +16,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+# How to reach me
+<a href="mailto:imranertaza12@gmail.com"><img src="https://img.icons8.com/fluency/48/000000/send-mass-email.png"/></a>
+<a href="https://dnationsoft.com/"><img src="https://img.icons8.com/fluency/48/000000/domain.png"/></a>
+<a href="https://stackoverflow.com/users/8489798/syed-imran-ertaza"><img src="https://www.flaticon.com/free-icon/stack-overflow_2111690"/></a>
+<a href="https://www.linkedin.com/in/syed-imran-ertaza-6852685]"><img src="https://img.icons8.com/fluency/48/000000/linkedin.png"/></a>
+
