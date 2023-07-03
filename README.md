@@ -1,3 +1,4 @@
+<img src="https://dnationsoft.com/assets/img/1-1.webp" />
 <h1 align="center">Hi 👋, I'm Syed Imran Ertaza</h1>
 <h3 align="center">A passionate web application developer</h3>
 
