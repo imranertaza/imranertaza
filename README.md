@@ -1,4 +1,4 @@
-<img src="https://dnationsoft.com/assets/img/1-1.webp" />
+<img src="https://dnationsoft.com/assets/images/git_banners/git_banner_black.png" />
 <h1 align="center">Hi 👋, I'm Syed Imran Ertaza</h1>
 <h3 align="center">A passionate web application developer</h3>
 <span><img src="https://komarev.com/ghpvc/?username=imranertaza&label=Profile%20views&color=0e75b6&style=flat" alt="imranertaza" /></span>
@@ -18,7 +18,6 @@
 
 - 📫 How to reach me **imranertaza12@gmail.com**
 
-- ⚡ Fun fact **I think I am funny**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
