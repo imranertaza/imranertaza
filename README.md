@@ -2,7 +2,8 @@
 <h1 align="center">Hi 👋, I'm Syed Imran Ertaza</h1>
 <h3 align="center">A passionate web application developer</h3>
 <span><img src="https://komarev.com/ghpvc/?username=imranertaza&label=Profile%20views&color=0e75b6&style=flat" alt="imranertaza" /></span>
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=imranertaza" alt="imranertaza" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="[https://github-profile-trophy.vercel.app/?username=imranertaza](https://github-trophies.vercel.app/?username=imranertaza&theme=radical&no-frame=false&no-bg=false&margin-w=4)" alt="imranertaza" /></a> </p>
+
 
 - 🔭 I’m currently working on **Codeigniter eCommerce Project**
 
